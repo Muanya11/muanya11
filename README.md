@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on everything power platforms and frontend development.
 - 🤔 I’m looking for help with breaking down complex technical concepts.
 - 💬 Ask me about Power platform and frontend development.
-<!- 📫 How to reach me: 
-- 😄 Pronouns: ...-->
-- ⚡ Fun fact: ...
+<!--- 📫 How to reach me: 
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...-->
 
